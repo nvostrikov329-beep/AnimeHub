@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>AnimeHub</title>
+<style>
+body{background:#111;color:white;text-align:center;font-family:sans-serif}
+h1{color:#ff4d8d;font-size:40px}
+.card{background:#222;margin:15px;padding:15px;border-radius:15px}
+button{background:#ff4d8d;color:white;border:0;padding:10px 20px;border-radius:10px;font-size:18px}
+</style>
+</head>
+<body>
+<h1>AnimeHub 🔥</h1>
+<p>Твой сайт про аниме!</p>
+<div class="card"><h2>Naruto</h2><p>Ниндзя, который никогда не сдаётся</p><button>Смотреть</button></div>
+<div class="card"><h2>One Piece</h2><p>Пираты и поиск сокровища</p><button>Смотреть</button></div>
+<div class="card"><h2>Attack on Titan</h2><p>Битва с титанами</p><button>Смотреть</button></div>
+</body>
+</html>
